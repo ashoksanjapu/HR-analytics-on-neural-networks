@@ -1,0 +1,311 @@
+Employee_Name,EmpID,EmpStatusID,DeptID,PerfScoreID,FromDiversityJobFairID,PayRate,Termd,PositionID,Sex,MaritalDesc,PerformanceScore
+"Brown, Mia",1103024456,1,1,3,1,28.5,0,1,F,Married,Fully Meets
+"LaRotonda, William  ",1106026572,1,1,3,0,23,0,1,M ,Divorced,Fully Meets
+"Steans, Tyrone  ",1302053333,1,1,3,0,29,0,1,M ,Single,Fully Meets
+"Howard, Estelle",1211050782,1,1,3,0,21.5,1,2,F,Married,Fully Meets
+"Singh, Nan ",1307059817,1,1,3,0,16.56,0,2,F,Single,Fully Meets
+"Smith, Leigh Ann",711007713,5,1,3,1,20.5,1,2,F,Married,Fully Meets
+"Bunbury, Jessica",1504073368,5,6,3,0,55,1,3,F,Married,Fully Meets
+"Carter, Michelle ",1403065721,1,6,3,0,55,0,3,F,Single,Fully Meets
+"Dietrich, Jenna  ",1408069481,1,6,1,0,55,0,3,F,Single,PIP
+"Digitale, Alfred",1306059197,1,6,3,0,56,0,3,M ,Married,Fully Meets
+"Friedman, Gerry",1204032843,1,6,3,1,55.5,0,3,M ,Single,Fully Meets
+"Gill, Whitney  ",1302053046,4,6,3,0,55,1,3,F,Widowed,Fully Meets
+"Gonzales, Ricardo",1411071481,1,6,3,0,55.5,0,3,M ,Married,Fully Meets
+"Guilianno, Mike",1001167253,5,6,3,0,55,1,3,M ,Single,Fully Meets
+"Leruth, Giovanni",1412071660,1,6,3,0,55,0,3,M ,Separated,Fully Meets
+"Mullaney, Howard",1306057978,1,6,1,0,55,0,3,M ,Single,PIP
+"Ozark, Travis",812011761,1,6,3,0,55,0,3,M ,Single,Fully Meets
+"Strong, Caitrin",1411071295,1,6,3,0,54,0,3,F,Married,Fully Meets
+"Valentin,Jackie",1312063714,1,6,3,0,55,0,3,F,Married,Fully Meets
+"Villanueva, Noah",1111030503,1,6,3,0,56,0,3,M ,Single,Fully Meets
+"Buck, Edward",1504073313,1,6,3,0,55,0,3,M ,Married,Fully Meets
+"Costa, Latia",1409070567,1,6,4,0,55,0,3,F,Single,Exceeds
+"Fraval, Maruk ",1411071302,1,6,3,0,55,0,3,M ,Single,Fully Meets
+"Givens, Myriam",1203032099,1,6,3,0,55,0,3,F,Single,Fully Meets
+Jeremy Prater,1001084890,1,6,1,0,56,0,3,M ,Married,PIP
+"Khemmich, Bartholemew",1104025008,1,6,3,0,55,0,3,M ,Single,Fully Meets
+"Martins, Joseph",1209048771,1,6,3,0,56,0,3,M ,Single,Fully Meets
+"McKinzie, Jac",1209049326,2,6,3,0,55,0,3,M ,Married,Fully Meets
+"Nguyen, Dheepa",1111030684,1,6,3,0,55,0,3,F,Single,Fully Meets
+"Onque, Jasmine",1501072180,1,6,3,0,57,0,3,F,Single,Fully Meets
+"Potts, Xana",1102024106,1,6,3,0,55,0,3,F,Married,Fully Meets
+"Riordan, Michael",1502072711,1,6,4,0,55,0,3,M ,Separated,Exceeds
+"Terry, Sharlene ",1401064637,1,6,3,0,55,0,3,F,Single,Fully Meets
+"Rachael, Maggie",1009919940,1,3,3,0,45,0,4,F,Married,Fully Meets
+"Smith, Jason",1009919980,1,3,3,0,46,0,4,M ,Single,Fully Meets
+"Westinghouse, Matthew",1009919990,1,3,3,0,45,0,4,M ,Married,Fully Meets
+"Hubert, Robert",1009920000,1,3,3,0,45,0,4,M ,Married,Fully Meets
+"Champaigne, Brian",1009919920,1,3,3,0,63.5,0,5,M ,Married,Fully Meets
+"Zamora, Jennifer",1112030816,1,3,4,0,65,0,6,F,Single,Exceeds
+"Roper, Katie",1009919950,1,3,3,0,55,0,7,F,Single,Fully Meets
+"Becker, Renee",1102024056,4,3,3,0,43,1,8,F,Single,Fully Meets
+"Goble, Taisha",905013738,4,3,3,0,48.5,1,8,F,Single,Fully Meets
+"Hernandez, Daniff",1410071156,4,3,3,0,40.1,1,8,M ,Married,Fully Meets
+"Horton, Jayne",1105025718,1,3,3,0,34,0,8,F,Single,Fully Meets
+"Johnson, Noelle ",1003018246,3,3,3,0,40,0,8,F,Married,Fully Meets
+"Murray, Thomas",1406068403,1,3,4,1,35.5,0,9,M ,Divorced,Exceeds
+"Pearson, Randall",1102023965,5,3,3,0,41,1,9,M ,Married,Fully Meets
+"Petrowsky, Thelma",1108027853,1,3,4,0,42.75,0,9,F,Married,Exceeds
+"Roby, Lori ",1407068885,1,3,3,0,39.55,0,9,F,Married,Fully Meets
+"Rogers, Ivan",1203032255,1,3,3,0,42.2,0,9,M ,Married,Fully Meets
+"Salter, Jason",1111030148,5,3,3,0,45,1,9,M ,Divorced,Fully Meets
+"Simard, Kramer",808010278,1,3,3,0,30.2,0,9,M ,Married,Fully Meets
+"Zhou, Julia",1110029732,1,3,3,0,31.4,0,9,F,Single,Fully Meets
+"Bramante, Elisa",1006020066,1,5,4,0,60,0,10,F,Single,Exceeds
+"Houlihan, Debra",1009021646,1,6,3,0,60,0,11,F,Married,Fully Meets
+"Foss, Jason",1192991000,1,3,4,0,65,0,12,M ,Single,Exceeds
+"Roup,Simon",1106026933,1,3,3,0,62,0,13,M ,Single,Fully Meets
+"Ruiz, Ricardo",1001175250,5,3,3,1,21,1,13,M ,Divorced,Fully Meets
+"Monroe, Peter",1011022863,1,3,2,1,63,0,13,M ,Married,Needs Improvement
+"Dougall, Eric",1101023754,1,3,4,0,64,0,13,M ,Single,Exceeds
+"Clayton, Rick",1301052902,1,3,3,0,28.99,0,14,M ,Single,Fully Meets
+"Galia, Lisa",1501072093,1,3,3,0,31.4,0,14,F,Single,Fully Meets
+"Lindsay, Leonara ",602000312,1,3,4,1,26,0,14,F,Single,Exceeds
+"Soto, Julia ",1203032263,1,3,3,0,27.49,0,14,F,Married,Fully Meets
+"Bacong, Alejandro ",1212052023,1,3,3,0,45,0,14,M ,Divorced,Fully Meets
+"Cisco, Anthony",1102024173,1,3,3,0,42,0,14,M ,Married,Fully Meets
+"Dolan, Linda",1101023540,1,3,3,0,37,0,14,F,Married,Fully Meets
+"Gonzalez, Maria",1988299991,1,3,3,0,39,0,14,F,Separated,Fully Meets
+"Merlos, Carlos",1012023013,1,3,1,0,43,0,15,M ,Single,PIP
+"Morway, Tanya",1001956578,1,3,3,0,27,0,15,F,Married,Fully Meets
+"Shepard, Anita ",906014183,1,3,3,0,47,0,15,F,Married,Fully Meets
+"Tredinnick, Neville ",1104025466,5,3,3,0,28,1,15,M ,Married,Fully Meets
+"Turpin, Jumil",1411071506,1,3,3,0,49.1,0,15,M ,Married,Fully Meets
+"King, Janet",1001495124,1,2,3,0,80,0,16,F,Married,Fully Meets
+"Albert, Michael  ",1501072311,1,5,3,0,54.5,0,17,M ,Divorced,Fully Meets
+"Bozzi, Charles",1303054580,5,5,3,0,50.5,1,18,M ,Single,Fully Meets
+"Butler, Webster  L",1110029990,1,5,4,0,55,0,18,M ,Single,Exceeds
+"Dunn, Amy  ",1409070147,1,5,3,0,51,0,18,F,Single,Fully Meets
+"Gray, Elijiah  ",1307060077,1,5,3,0,54,0,18,M ,Divorced,Fully Meets
+"Hogland, Jonathan ",1001944783,4,5,3,0,48.5,1,18,M ,Married,Fully Meets
+"Immediato, Walter",1403065874,5,5,2,0,42,1,18,M ,Married,Needs Improvement
+"Liebig, Ketsia",1103024679,1,5,4,0,55,0,18,F,Married,Exceeds
+"Miller, Brannon",1107027351,1,5,3,0,53,0,18,M ,Single,Fully Meets
+"Peterson, Ebonee  ",1402065355,5,5,3,0,38.5,1,18,F,Married,Fully Meets
+"Spirea, Kelley",1102024149,1,5,3,0,52,0,18,F,Married,Fully Meets
+"Stanley, David ",1000974650,1,5,2,0,53,0,18,M ,Divorced,Needs Improvement
+"Sullivan, Kissy ",1405067298,1,5,3,0,55,0,18,F,Married,Fully Meets
+"Wallace, Courtney  E",1410071026,5,5,3,1,33.5,1,18,F,Married,Fully Meets
+"Anderson, Linda  ",1304055947,1,5,4,0,23,0,19,F,Single,Exceeds
+"Bernstein, Sean",1109029366,1,5,3,0,16,0,19,M ,Single,Fully Meets
+"Chivukula, Enola",1101023394,5,5,3,0,21,1,19,F,Single,Fully Meets
+"Desimone, Carl ",1501072124,1,5,1,0,20,0,19,M ,Married,PIP
+"Fernandes, Nilson  ",1302053339,1,5,1,0,18,0,19,M ,Married,PIP
+"Girifalco, Evelyn",1204032927,1,5,4,0,16,0,19,F,Single,Exceeds
+"Harrison, Kara",1404066622,1,5,4,0,20,0,19,F,Married,Exceeds
+"Kirill, Alexandra  ",903013071,5,5,3,0,24,1,19,F,Married,Fully Meets
+"MacLennan, Samuel",1201031032,5,5,3,0,15,1,19,M ,Widowed,Fully Meets
+"Ndzi, Horia",1204033044,5,5,3,0,22,1,19,M ,Married,Fully Meets
+"Perry, Shakira",1109029186,5,5,3,0,22,1,19,F,Single,Fully Meets
+"Robinson, Alain  ",1206038000,5,5,3,0,24,1,19,M ,Married,Fully Meets
+"Shields, Seffi",1205033102,1,5,3,0,15,0,19,F,Married,Fully Meets
+"Theamstern, Sophia",1404066739,5,5,3,0,20,1,19,F,Single,Fully Meets
+"Wilber, Barry",1101023839,5,5,3,0,21,1,19,M ,Married,Fully Meets
+"Bachiochi, Linda",1212051409,3,5,3,1,22,0,19,F,Single,Fully Meets
+"Billis, Helen",1308060366,1,5,4,0,16,0,19,F,Married,Exceeds
+"Clukey, Elijian",1407069280,2,5,4,0,24.75,0,19,M ,Married,Exceeds
+"DiNocco, Lily ",1209048696,1,5,2,0,22,0,19,F,Married,Needs Improvement
+"Fidelia,  Libby",1006020020,1,5,3,0,24,0,19,F,Married,Fully Meets
+"Gonzalez, Cayo",1411071212,1,5,4,1,16,0,19,M ,Divorced,Exceeds
+"Ivey, Rose ",1408069882,1,5,3,0,16,0,19,F,Single,Fully Meets
+"Kretschmer, John",1311062610,1,5,3,0,21,0,19,M ,Married,Fully Meets
+"Mangal, Debbie",1308060754,1,5,3,0,23,0,19,F,Married,Fully Meets
+"Ngodup, Shari ",1403066020,1,5,4,1,15,0,19,F,Separated,Exceeds
+"Pham, Hong",1305057440,5,5,3,0,18,1,19,M ,Married,Fully Meets
+"Robinson, Elias",1011022887,1,5,4,0,17,0,19,M ,Widowed,Exceeds
+"Sparks, Taylor  ",1410071137,1,5,1,0,16,0,19,F,Married,PIP
+"Tippett, Jeanette",1409070255,1,5,3,0,24,0,19,F,Divorced,Fully Meets
+"Ybarra, Catherine ",1001268402,5,5,1,0,22,1,19,F,Single,PIP
+"Baczenski, Rachael  ",1307060083,5,5,3,1,17,1,19,F,Married,Fully Meets
+"Brill, Donna",1406068293,5,5,3,0,20,1,19,F,Married,Fully Meets
+"Cockel, James",1599991009,1,5,3,0,15,0,19,M ,Single,Fully Meets
+"Dobrin, Denisa  S",1202031618,1,5,3,0,16.75,0,19,F,Single,Fully Meets
+"Garcia, Raul",1309061015,1,5,3,0,19,0,19,M ,Single,Fully Meets
+"Gordon, David",1106026579,1,5,3,0,15,0,19,M ,Married,Fully Meets
+"Jackson, Maryellen",1201031438,1,5,3,0,20,0,19,F,Single,Fully Meets
+"Langton, Enrico",1304055987,1,5,3,0,17,0,19,M ,Married,Fully Meets
+"Maurice, Shana",1401064327,1,5,3,0,20,0,19,F,Married,Fully Meets
+"Nguyen, Lei-Ming",1203032357,1,5,3,0,19,0,19,F,Single,Fully Meets
+"Pitt, Brad ",1001735072,1,5,3,0,17,0,19,M ,Single,Fully Meets
+"Rose, Ashley  ",710007555,1,5,3,0,17,0,19,F,Separated,Fully Meets
+"Squatrito, Kristen",1405067138,5,5,4,0,21,1,19,F,Divorced,Exceeds
+"Trang, Mei",1012023152,1,5,2,0,22,0,19,F,Single,Needs Improvement
+"Zima, Colleen",1211051232,1,5,3,0,15,0,19,F,Widowed,Fully Meets
+"Alagbe,Trina",1011022883,1,5,3,0,21,0,19,F,Married,Fully Meets
+"Beatrice, Courtney ",1403066194,1,5,3,0,22,0,19,F,Single,Fully Meets
+"Chan, Lin",1305057282,1,5,3,0,19.5,0,19,F,Single,Fully Meets
+"Darson, Jene'ya ",1001109612,1,5,3,0,15,0,19,F,Married,Fully Meets
+"Evensen, April",1107027392,4,5,2,0,18,1,19,F,Single,Needs Improvement
+"Gerke, Melisa",1308060622,5,5,3,1,22,1,19,F,Divorced,Fully Meets
+"Harrell, Ludwick",1406068241,1,5,3,0,21,0,19,M ,Married,Fully Meets
+"Jung, Judy  ",1107027450,5,5,3,0,21,1,19,F,Married,Fully Meets
+"Lydon, Allison",1101023353,3,5,3,0,20,0,19,F,Married,Fully Meets
+"Motlagh,  Dawn",1102024121,1,5,3,0,15,0,19,F,Divorced,Fully Meets
+"Panjwani, Nina",1109029531,5,5,3,0,18,1,19,F,Married,Fully Meets
+"Rhoads, Thomas",1211050793,5,5,3,0,20,1,19,M ,Divorced,Fully Meets
+"Sander, Kamrin",1302053362,1,5,3,0,21,0,19,F,Married,Fully Meets
+"Sutwell, Barbara",1407069061,1,5,3,0,14,0,19,F,Single,Fully Meets
+"Wallace, Theresa",1101023619,5,5,2,0,15,1,19,F,Single,Needs Improvement
+"Barone, Francesco  A",1101023679,1,5,3,0,16.76,0,19,M ,Single,Fully Meets
+"Carey, Michael  ",1311063114,1,5,3,0,20,0,19,M ,Single,Fully Meets
+"Cornett, Lisa ",1403066069,1,5,3,0,15.75,0,19,F,Married,Fully Meets
+"Engdahl, Jean",1007020403,1,5,3,0,21.25,0,19,M ,Single,Fully Meets
+"England, Rex",1101023612,1,5,3,0,21,0,19,M ,Married,Fully Meets
+"Gaul, Barbara",1105026041,1,5,3,0,24,0,19,F,Single,Fully Meets
+"Gross, Paula",1103024859,5,5,3,0,14,1,19,F,Divorced,Fully Meets
+"Jhaveri, Sneha  ",1412071713,1,5,3,0,19,0,19,F,Separated,Fully Meets
+"LeBel, Jonathan  R",1107027575,4,5,3,0,15,1,19,M ,Single,Fully Meets
+"Meads, Elizabeth",1409070245,5,5,3,1,14,1,19,F,Single,Fully Meets
+"Osturnka, Adeel",1404066949,1,5,4,0,16,0,19,M ,Married,Exceeds
+"Punjabhi, Louis  ",1401064562,1,5,3,0,16,0,19,M ,Single,Fully Meets
+"Saar-Beckles, Melinda",1410070998,2,5,2,1,20,0,19,F,Single,Needs Improvement
+"Stoica, Rick",1106026896,1,5,3,0,22,0,19,M ,Married,Fully Meets
+"Volk, Colleen",1011022814,4,5,4,0,21,1,19,F,Married,Exceeds
+"Athwal, Sam",1301052124,1,5,3,0,22,0,19,M ,Widowed,Fully Meets
+"Biden, Lowan  M",1412071844,1,5,3,0,22,0,19,F,Divorced,Fully Meets
+"Cierpiszewski, Caroline  ",1012023295,1,5,3,0,22,0,19,F,Single,Fully Meets
+"Dickinson, Geoff ",706006285,1,5,3,0,21,0,19,M ,Single,Fully Meets
+"Ferreira, Violeta",803009012,1,5,3,0,23,0,19,F,Single,Fully Meets
+"Gold, Shenice  ",1408069539,1,5,3,0,17,0,19,F,Single,Fully Meets
+"Heitzman, Anthony",1002017900,1,5,3,0,19,0,19,M ,Single,Fully Meets
+"Knapp, Bradley  J",1304055683,1,5,3,0,14,0,19,M ,Single,Fully Meets
+"Mahoney, Lauren  ",1209049259,1,5,3,0,17,0,19,F,Single,Fully Meets
+"Newman, Richard ",1302053044,3,5,3,0,21,0,19,M ,Married,Fully Meets
+"Peterson, Kayla ",1307059944,1,5,3,0,17,0,19,F,Married,Fully Meets
+"Robinson, Cherly",1403065625,4,5,2,0,16,1,19,F,Married,Needs Improvement
+"Smith, Sade",1501071909,1,5,3,0,24.5,0,19,F,Single,Fully Meets
+"Tinto, Theresa  ",1103024504,5,5,3,0,20,1,19,F,Divorced,Fully Meets
+"Williams, Jacquelyn  ",1308060671,5,5,3,1,16,1,19,F,Single,Fully Meets
+"Barbara, Thomas",1312063507,5,5,3,1,22,1,19,M ,Married,Fully Meets
+"Bugali, Josephine ",1408069635,3,5,3,1,20,0,19,F,Separated,Fully Meets
+"Cole, Spencer",1001450968,4,5,2,0,15,1,19,M ,Single,Needs Improvement
+"Eaton, Marianne",1406067865,5,5,3,0,17,1,19,F,Married,Fully Meets
+"Garneau, Hamish",1104025414,1,5,3,0,18,0,19,M ,Single,Fully Meets
+"Goyal, Roxana",1312063675,3,5,3,0,24,0,19,F,Married,Fully Meets
+"Jacobi, Hannah  ",1503072857,1,5,3,0,21,0,19,F,Divorced,Fully Meets
+"Leach, Dallas",1408069409,5,5,3,0,19,1,19,F,Single,Fully Meets
+"Mckenna, Sandy",909015167,1,5,3,0,24,0,19,F,Married,Fully Meets
+"O'hare, Lynn",1206044851,4,5,1,0,18.5,1,19,F,Single,PIP
+"Power, Morissa",1102024274,5,5,3,0,19,1,19,F,Divorced,Fully Meets
+"Purinton, Janine",1011022926,5,5,3,0,16,1,19,F,Divorced,Fully Meets
+"Rossetti, Bruno",1405067492,5,5,3,0,18,1,19,M ,Single,Fully Meets
+"Stanford,Barbara  M",1111030244,1,5,3,0,14,0,19,F,Divorced,Fully Meets
+"Veera, Abdellah ",1203032235,5,5,4,0,19,1,19,M ,Divorced,Exceeds
+"Adinolfi, Wilson  K",1409070522,1,5,4,0,20,0,19,M ,Single,Exceeds
+"Barton, Nader",1212051962,5,5,3,0,18,1,19,M ,Divorced,Fully Meets
+"Chace, Beatrice ",1208048062,1,5,3,0,16,0,19,F,Single,Fully Meets
+"Crimmings,   Jean",1311063172,2,5,3,0,19.75,0,19,F,Single,Fully Meets
+"Estremera, Miguel",1104025243,4,5,2,0,17,1,19,M ,Single,Needs Improvement
+"Gentry, Mildred",1501072192,1,5,3,0,19,0,19,F,Married,Fully Meets
+"Handschiegl, Joanne",1405067064,1,5,3,0,24,0,19,F,Married,Fully Meets
+"Johnson, George",1105025721,5,5,4,0,17,1,19,M ,Married,Exceeds
+"Keatts, Kramer ",1301052462,1,5,3,0,19,0,19,M ,Single,Fully Meets
+"Linares, Marilyn ",1206042315,5,5,3,0,15.25,1,19,F,Married,Fully Meets
+"Medeiros, Jennifer",1109029256,1,5,3,0,20,0,19,F,Single,Fully Meets
+"Owad, Clinton",1103024335,1,5,2,0,22,0,19,M ,Single,Needs Improvement
+"Rarrick, Quinn",1208048229,5,5,3,0,21,1,19,M ,Divorced,Fully Meets
+"Sadki, Nore  ",1308060535,5,5,3,0,21,1,19,M ,Single,Fully Meets
+"Sullivan, Timothy",1201031310,1,5,3,0,19,0,19,M ,Married,Fully Meets
+"Von Massenbach, Anna",1106026474,2,5,3,0,20,0,19,F,Single,Fully Meets
+"Anderson, Carol ",1001417624,5,5,3,0,16,1,19,F,Divorced,Fully Meets
+"Becker, Scott",1110029777,3,5,3,0,17,0,19,M ,Single,Fully Meets
+"Chang, Donovan  E",1111030129,1,5,3,0,22,0,19,M ,Single,Fully Meets
+"DeGweck,  James",1306058816,5,5,3,0,23.5,1,19,M ,Married,Fully Meets
+"Ferguson, Susan",1502072511,5,5,3,0,20,1,19,F,Married,Fully Meets
+"Gilles, Alex",1008020960,5,5,2,1,15,1,19,M ,Married,Needs Improvement
+"Harrington, Christie ",1110029602,5,5,3,0,19.75,1,19,F,Single,Fully Meets
+"Kinsella, Kathleen  ",710007401,5,5,3,0,22,1,19,F,Married,Fully Meets
+"Lynch, Lindsay",1001138521,5,5,4,1,19,1,19,F,Single,Exceeds
+"Ndzi, Colombui",1204033041,5,5,3,1,18,1,19,M ,Single,Fully Meets
+"Pelech, Emil",1307060058,5,5,2,0,24,1,19,M ,Single,Needs Improvement
+"Rivera, Haley  ",1405067642,1,5,4,0,22,0,19,F,Married,Exceeds
+"Sewkumar, Nori",807010161,3,5,3,0,15.2,0,19,F,Single,Fully Meets
+"Tavares, Desiree  ",1405067501,5,5,3,1,15,1,19,F,Married,Fully Meets
+"Whittier, Scott",1307060212,5,5,3,0,23,1,19,M ,Single,Fully Meets
+"Burke, Joelle",1011022820,1,5,3,0,25,0,20,F,Single,Fully Meets
+"Fitzpatrick, Michael  J",1109029103,5,5,3,0,29,1,20,M ,Single,Fully Meets
+"Huynh, Ming",1306058509,5,5,3,0,23,1,20,F,Divorced,Fully Meets
+"Mancuso, Karen",1304055986,5,5,3,0,23,1,20,F,Married,Fully Meets
+"Pelletier, Ermine",1202031821,5,5,2,0,28,1,20,F,Married,Needs Improvement
+"Trzeciak, Cybil",1107027551,5,5,3,0,22,1,20,F,Single,Fully Meets
+"Cloninger, Jennifer",1012023226,5,5,3,0,25,1,20,F,Married,Fully Meets
+"Gonzalez, Juan",1411071324,5,5,1,1,29,1,20,M ,Married,PIP
+"Johnston, Yen",1306057810,1,5,4,0,25,0,20,F,Single,Exceeds
+"Miller, Ned",1205033439,5,5,1,0,25,1,20,M ,Single,PIP
+"Petingill, Shana  ",1103024843,1,5,3,0,26,0,20,F,Married,Fully Meets
+"Winthrop, Jordan  ",1405067188,5,5,4,0,29,1,20,M ,Single,Exceeds
+"Close, Phil",1209048697,5,5,3,0,26,1,20,M ,Married,Fully Meets
+"Good, Susan",1001549006,3,5,3,0,24.25,0,20,F,Married,Fully Meets
+"Langford, Lindsey",1010022030,5,5,3,0,22,1,20,F,Divorced,Fully Meets
+"Monkfish, Erasumus",1404066711,1,5,3,0,27,0,20,M ,Married,Fully Meets
+"Roberson, May",1402065340,5,5,3,0,26,1,20,F,Divorced,Fully Meets
+"Wolk, Hang  T",1205033180,1,5,3,0,22,0,20,F,Single,Fully Meets
+"Bondwell, Betsy",1008021030,5,5,3,0,26,1,20,F,Single,Fully Meets
+"Faller, Megan ",1108028428,1,5,3,0,27,0,20,F,Married,Fully Meets
+"Hunts, Julissa",1106026433,2,5,3,0,25,0,20,F,Single,Fully Meets
+"Lunquist, Lisa",1001504432,1,5,4,0,26.1,0,20,F,Single,Exceeds
+"Nowlan, Kristie",1104025435,1,5,3,0,26.39,0,20,F,Single,Fully Meets
+"Smith, Joe",1001970770,1,5,4,0,22,0,20,M ,Single,Exceeds
+"Tejeda, Lenora ",1406068345,5,5,3,0,28.75,1,20,F,Married,Fully Meets
+"Beak, Kimberly  ",1303054329,2,5,4,0,27,0,20,F,Married,Exceeds
+"Demita, Carla",1104025179,5,5,3,0,29,1,20,F,Separated,Fully Meets
+"Hankard, Earnest",1307059937,1,5,3,0,24,0,20,M ,Single,Fully Meets
+"Hendrickson, Trina",1011022932,5,5,3,0,24,1,20,F,Single,Fully Meets
+"Linden, Mathew",1405067565,3,5,3,0,22,0,20,M ,Married,Fully Meets
+"Moran, Patrick",1408069503,3,5,3,1,26,0,20,M ,Single,Fully Meets
+"Sahoo, Adil",1106026462,1,5,3,0,29,0,20,M ,Married,Fully Meets
+"Burkett, Benjamin ",1301052449,1,5,3,0,26,0,20,M ,Married,Fully Meets
+"Foreman, Tanya",1012023204,5,5,3,0,24,1,20,F,Married,Fully Meets
+"Jeannite, Tayana",1008020942,1,5,4,0,22.5,0,20,F,Divorced,Exceeds
+"McCarthy, Brigit",1406067957,1,5,3,0,26,0,20,F,Single,Fully Meets
+"Peters, Lauren",1411071406,5,5,4,0,29,1,20,F,Married,Exceeds
+"Walker, Roger",1011022818,1,5,3,0,22,0,20,M ,Single,Fully Meets
+"Akinkuolie, Sarah",1005019209,5,5,3,0,29,1,20,F,Married,Fully Meets
+"Davis, Daniel",1201031274,1,5,3,0,25,0,20,M ,Single,Fully Meets
+"Gosciminski, Phylicia  ",1108028351,3,5,3,0,27,0,20,F,Separated,Fully Meets
+"Latif, Mohammed",1104025486,5,5,3,0,28,1,20,M ,Married,Fully Meets
+"Monterro, Luisa",1001103149,1,5,4,0,25,0,20,F,Single,Exceeds
+"Robertson, Peter",1499902991,5,5,3,0,22,1,20,M ,Married,Fully Meets
+"Woodson, Jason",1012023010,1,5,3,0,24.25,0,20,M ,Single,Fully Meets
+"Blount, Dianna",1403066125,1,5,2,0,27,0,20,F,Single,Needs Improvement
+"Erilus, Angela",1105025661,1,5,1,0,24,0,20,F,Separated,PIP
+"Homberger, Adrienne  J",1207046956,5,5,3,0,28,1,20,F,Married,Fully Meets
+"Lundy, Susan",1305056276,5,5,3,0,24,1,20,F,Widowed,Fully Meets
+"Moumanil, Maliki ",1301052436,1,5,3,0,29,0,20,M ,Separated,Fully Meets
+"Sloan, Constance",1012023103,5,5,3,0,23,1,20,F,Single,Fully Meets
+"Buccheri, Joseph  ",1101023457,1,5,3,0,22,0,20,M ,Single,Fully Meets
+"Fancett, Nicole",1402065085,1,5,3,0,24,0,20,F,Single,Fully Meets
+"Hutter, Rosalie",1103024924,2,5,3,0,28,0,20,F,Separated,Fully Meets
+"Manchester, Robyn",1110029623,2,5,3,0,23,0,20,F,Married,Fully Meets
+"Oliver, Brooke ",1001856521,5,5,3,0,25,1,20,F,Married,Fully Meets
+"Thibaud, Kenneth",1011022777,5,5,3,0,23,1,20,M ,Widowed,Fully Meets
+"Daneault, Lynn",1402065303,1,6,3,0,54,0,21,F,Single,Fully Meets
+"Kampew, Donysha",1109029264,5,6,3,0,60.25,1,21,F,Single,Fully Meets
+"Smith, John",1499902910,1,6,2,1,56,0,21,M ,Divorced,Needs Improvement
+"Le, Binh",1009919930,1,3,3,0,50.25,0,22,F,Single,Fully Meets
+"Navathe, Kurt",1009919960,1,3,3,0,52.25,0,22,M ,Single,Fully Meets
+"Wang, Charlie",1009919970,1,3,3,0,51,0,22,M ,Single,Fully Meets
+"LeBlanc, Brandon  R",1102024115,1,1,3,0,55,0,23,M ,Married,Fully Meets
+"Quinn, Sean",1206043417,5,1,3,1,55,1,23,M ,Married,Fully Meets
+"Andreola, Colby",1107027358,1,4,3,0,47.6,0,24,F,Single,Fully Meets
+"Carabbio, Judith",1101023577,1,4,3,0,56,0,24,F,Single,Fully Meets
+"Del Bosque, Keyla",1203032498,1,4,3,0,57.12,0,24,F,Single,Fully Meets
+"Exantus, Susan",1401064670,4,4,2,0,48.5,1,24,F,Married,Needs Improvement
+"Martin, Sandra",1303054625,1,4,3,0,55.51,0,24,F,Single,Fully Meets
+"Patronick, Luke",1112030979,5,4,4,1,52.25,1,24,M ,Single,Exceeds
+"Saada, Adell",1012023185,1,4,3,0,49.25,0,24,F,Married,Fully Meets
+"Szabo, Andrew",1201031324,1,4,4,0,48,0,24,M ,Single,Exceeds
+"True, Edward",1102024057,5,4,3,1,45.42,1,24,M ,Single,Fully Meets
+"Sweetwater, Alex",1001644719,1,4,3,0,27,0,25,M ,Single,Fully Meets
+"Foster-Baker, Amy",1201031308,1,1,3,0,34.95,0,26,F,Married,Fully Meets
+"Boutwell, Bonalyn",1307060188,1,1,3,1,34.95,0,26,F,Married,Fully Meets
+"Ait Sidi, Karthikeyan   ",1307060199,5,3,3,0,62,1,27,M ,Married,Fully Meets
+"Carr, Claudia  N",1010022337,2,3,3,0,61.3,0,27,F,Single,Fully Meets
+"Favis, Donald  ",1412071562,4,3,3,0,58.2,1,30,M ,Single,Fully Meets
+"Roehrich, Bianca",1111030266,5,3,3,0,58.5,1,29,F,Single,Fully Meets
+"Daniele, Ann  ",1411071312,3,3,3,0,54.1,0,28,F,Married,Fully Meets
+"Lajiri,  Jyoti",1108028108,3,3,3,0,56.2,0,28,M ,Married,Fully Meets
+"Semizoglou, Jeremiah  ",904013591,2,3,3,0,53.8,0,28,M ,Married,Fully Meets
+"South, Joe",1308060959,1,3,3,0,53,0,28,M ,Single,Fully Meets
+"Warfield, Sarah",1301052347,1,3,3,0,55.2,0,28,F,Widowed,Fully Meets
